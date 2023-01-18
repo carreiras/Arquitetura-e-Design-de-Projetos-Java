@@ -30,4 +30,10 @@ A partir do uso da linguagem Java:
 - Escrever código coeso com Single Responsibility Principle;
 - Saiber como lidar com acoplamento; 
 - Entender a fundo os ganhos do encapsulamento; 
-- Domine os princípios de código sólido.
+- Dominar os princípios de código sólido.
+
+**Single Responsibility Principle**
+
+- Classes/métodos/funções/módulos devem ter uma única responsabilidade bem definida;
+- Segundo o Princípio de Responsabilidade Única (SRP), uma classe deve ter um e apenas um motivo para ser alterada;
+ 
